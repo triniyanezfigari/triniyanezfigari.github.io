@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trini on Trinidad Yañez Figari - Taller Producto</title>
+    <title>Trinidad Yanez Figari on Trinidad Yañez Figari - Taller Producto</title>
     <link>https://triniyanezfigari.github.io/</link>
-    <description>Recent content in Trini on Trinidad Yañez Figari - Taller Producto</description>
+    <description>Recent content in Trinidad Yanez Figari on Trinidad Yañez Figari - Taller Producto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://triniyanezfigari.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 1 holaa</title>
+      <title>Proyecto Hand Singer</title>
       <link>https://triniyanezfigari.github.io/docs/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://triniyanezfigari.github.io/docs/post-1/</guid>
       <description>Mi post numero uno</description>
+    </item>
+    
+    <item>
+      <title>Proyecto comedero animalitos reciclable</title>
+      <link>https://triniyanezfigari.github.io/docs/post-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://triniyanezfigari.github.io/docs/post-4/</guid>
+      <description>Mi post numero dos</description>
+    </item>
+    
+    <item>
+      <title>Proyecto palito selfie</title>
+      <link>https://triniyanezfigari.github.io/docs/post-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://triniyanezfigari.github.io/docs/post-3/</guid>
+      <description>Mi post numero tres</description>
     </item>
     
     <item>
