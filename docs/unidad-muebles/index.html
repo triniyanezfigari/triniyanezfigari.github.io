@@ -91,10 +91,6 @@
   <ul>
     
     <li class="">
-      <a href="https://triniyanezfigari.github.io/docs/ammil/">Presentación Inicial</a>
-    </li>
-    
-    <li class="">
       <a href="https://triniyanezfigari.github.io/docs/presentacion-inicial/">Presentación Inicial</a>
     </li>
     
@@ -103,11 +99,15 @@
     </li>
     
     <li class="">
+      <a href="https://triniyanezfigari.github.io/docs/ammil/">Ammil</a>
+    </li>
+    
+    <li class="">
       <a href="https://triniyanezfigari.github.io/docs/markdown/">Ejemplos Markdown</a>
     </li>
     
     <li class="">
-      <a href="https://triniyanezfigari.github.io/docs/ejemplo/">Ammil: Muebles Híbridos</a>
+      <a href="https://triniyanezfigari.github.io/docs/ejemplo/">Ejemplo</a>
     </li>
     
   </ul>
@@ -546,16 +546,27 @@ Además, está conformado de modo que este sea transportable y guardable. En la 
 <p>Aluminio: Material más resistente, liviano, maleable y duradero, que nos ayudará a encajar trozos de acrílico y a darle detalles a otros muebles.</p>
 </li>
 <li>
-<p>Acrílico: Material fácil de moldear/doblar. Este nos sirve por estética elegante (por su transparencia) y para darle un toque mágico a nuestros muebles. También, le da un detalle futurístico.</p>
+<p>Acrílico o Vidrio: Material fácil de moldear/doblar. Este nos sirve por estética elegante (por su transparencia) y para darle un toque mágico a nuestros muebles. También, le da un detalle futurístico.</p>
 </li>
 </ul>
-<h2 id="referentes">Referentes:</h2>
-<ul>
-<li>aCHAIR y MeaMea coffeetable</li>
-<li>Bombay Sapphire Distillery</li>
-</ul>
-<p><img src="/img/referencias.jpg" alt="imagen portada">
-<img src="/img/referenciass.jpg" alt="imagen portada"></p>
+<hr>
+<h1 id="mueble-final">Mueble Final</h1>
+
+<iframe id='pdf-hugo' src='/pdf/LittleSingapur.pdf'
+frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:60vh;"></iframe>
+
+<button onclick="myFunction('pdf-hugo')" class="button button-primary mb-2" style="width: 100%;">Ver Pantalla Completa</button>
+
+<script>
+    function myFunction(id) {
+      document.getElementById(id).classList.add("full-screen");
+    }
+    document.addEventListener('keydown', function(event){
+	if(event.key === "Escape"){
+        document.getElementById('pdf-hugo').classList.remove("full-screen");
+	}
+});
+</script>
 
 </div>
 </div>
