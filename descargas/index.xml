@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trinidad Yanez Figari on Trinidad Yañez Figari - Taller Producto</title>
+    <link>https://triniyanezfigari.github.io/</link>
+    <description>Recent content in Trinidad Yanez Figari on Trinidad Yañez Figari - Taller Producto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://triniyanezfigari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentación Inicial</title>
+      <link>https://triniyanezfigari.github.io/docs/presentacion-inicial/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://triniyanezfigari.github.io/docs/presentacion-inicial/</guid>
+      <description>Entrega 0</description>
+    </item>
+    
+    <item>
+      <title>Unidad Muebles</title>
+      <link>https://triniyanezfigari.github.io/docs/unidad-muebles/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://triniyanezfigari.github.io/docs/unidad-muebles/</guid>
+      <description>Mi post numero dos</description>
+    </item>
+    
+    <item>
+      <title>Unidad Comida</title>
+      <link>https://triniyanezfigari.github.io/docs/unidad-comida/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://triniyanezfigari.github.io/docs/unidad-comida/</guid>
+      <description>Entrega 0</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://triniyanezfigari.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://triniyanezfigari.github.io/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo</title>
+      <link>https://triniyanezfigari.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://triniyanezfigari.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+  </channel>
+</rss>
